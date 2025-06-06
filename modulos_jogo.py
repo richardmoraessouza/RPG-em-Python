@@ -287,6 +287,7 @@ def começando_jg(mob_escolhido):
                           print("\033[31mVocê não pode pular mais!\033[m")
                           print(f"Por conta de seus pulo estárem em {pulos}")
                           enter = input("")
+                          print("teste")
                           hora_da_luta(mob_escolhido, dados_dos_mobs)
         if decisão == "sair":
              break
