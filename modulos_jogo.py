@@ -1,6 +1,5 @@
 from random import choice, randint
-# richard!, a vida dos monstros que vc mata não recupera, eles ficam mortos até o fim do programa.
-# arrume zé cu
+# o sistems de vida está bugado
 from time import sleep
 abate = 0
 hit_kill = 0
